@@ -404,7 +404,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'Jᥱffr᧐'s ChatGPT'
+                      'Jᥱffr᧐&#39;s ChatGPT'
                     )}
                   </div>
 
