@@ -366,7 +366,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
               with their API.
             </div>
             <div className="mb-2">
-              And this website is <span className="italic">only</span> for <a href="https://twitter.com/JeffroTanvik">@Jeffro</a> and his friends. 
+              And this website is . 
             </div>
             <div className="mb-2">
               {t(
